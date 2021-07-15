@@ -11,4 +11,6 @@
 Top down game in which the player must fight monsters to get upgrades and
 shards which are used to move on to the next island or to the boss fight.
 
+<img scr="OuroborosQuest.png" width="333">
+
 [Itch](https://ouroborusquest.itch.io/ouroboros-quest)
