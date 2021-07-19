@@ -18,9 +18,8 @@ shards which are used to move on to the next island or to the boss fight.
 [GitHub](https://github.com/SethSylvester/Ouroboros-Quest)
 
 ## Tank Game
+Tank game where you can control a tank and shoot bullets. Currently updating it and fixing bugs due to knowing more than I did when I originaly finished 
 
-Tank game where you can control a tank and shoot bullets. Currently updating it and fixing it due to knowing more currently
-
-<img scr="TankGameScreenShot.png" width="333">
+<img src="TankGameScreenShot.png" width="333">
 
 [Github](https://github.com/Melody6149/TankGame)
