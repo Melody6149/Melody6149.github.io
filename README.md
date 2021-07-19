@@ -20,3 +20,5 @@ shards which are used to move on to the next island or to the boss fight.
 ## Tank Game
 
 Tank game where you can control a tank and shoot bullets
+
+<img scr="TankGameScreenShot.png" width="333">
